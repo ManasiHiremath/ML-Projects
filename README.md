@@ -21,5 +21,10 @@ This project involved using classification algorithms and Ensemble techniques to
 
 Skills and Tools
 #### EDA, Logistic regression, Decision Trees
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Course Unsupervised Learning
+1)Cluster the vehicles based on fuel consumption attributes to train a regression model 2)Generating synthetic data using existing partially labelled data provided for a wine manufacturer 3)Curate a Dimensionally Reduced data to build a supervised learning classification model for an automobile dataset 4)Based on historical data Design a performance ranking model for professional cricket players in IPL 5)Work on various multimedia data for dimension reduction.
 
+Skills and Tools
+#### Clustering, Support Vector Machines, Principal Component Analysis, Classification
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
