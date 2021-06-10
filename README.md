@@ -7,7 +7,7 @@ This project used Hypothesis Testing and Visualization to leverage customer's he
 
 Skills and Tools
 #### Hypothesis Testing, Data visualisation, statistical Inference
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Course Supervised Learning
 Identifying potential customers for loans
 Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
