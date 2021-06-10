@@ -1,21 +1,20 @@
-# ML-Projects
-Great Learning Projects
+# Machine Learning-Projects
 
-### Course Applied Statistics
+### Applied Statistics
 Health Insurance
 This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 
 Skills and Tools
 #### Hypothesis Testing, Data visualisation, statistical Inference
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Course Supervised Learning
+### Supervised Learning
 Identifying potential customers for loans
 Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
 
 Skills and Tools
 #### Logistic Regression, KNN, Classification
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Course Ensemble Techniques
+### Ensemble Techniques
 Diagnosing Parkinson's disease using Random Forests
 This project involved using classification algorithms and Ensemble techniques to diagnose Parkinson’s Disease (PD) using the patient voice recording data. Various models were used including Naive Bayes, Logistic Regression, SVM, Decision Tree, Random Forest etc. and comparison of accuracy across these models was done to finalise the model for prediction.
 
@@ -28,10 +27,16 @@ Skills and Tools
 Skills and Tools
 #### Clustering, Support Vector Machines, Principal Component Analysis, Classification
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Course Featurization, Model Selection & Tuning
+## Featurization, Model Selection & Tuning
 
 The project was accomplished by employing supervised learning, ensemble modelling and unsupervised learning techniques to build and train a prediction model to identify Pass/Fail yield of a particular process entity for a semiconductor manufacturing company. This projects helps to determine key factors contributing to yield excursions downstream in the process and will enable an increase in process throughput, decreased time to learning and reduce the per unit production costs.
 
 Skills and Tools
 #### Supervised learning, PCA, Feature selection, Model tuning, Grid Search
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Recommendation Systems
+This project replicates a real time use case of an e-commerce company, which can recommend mobile phones to a user, which are most popular and personalized respectively. The project was accomplished by employing recommendation techniques such as popularity based recommendation and collaborative filtering methods to recommend a mobile handset to its users based on the individual consumer’s behaviour/choice. Domain- Electronics, E-commerce
+
+Skills and Tools
+#### Collaborative Filtering, Popularity-based, Recommender Systems, Python
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
