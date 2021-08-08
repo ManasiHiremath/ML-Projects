@@ -47,3 +47,27 @@ The project was accomplished by delivering 4 sub-projects. Part 1,2 & 3 deploys 
 Skills and Tools
 #### Autonomous Vehicles, Neural Networks, Deep Learning, TensorFlow,, Image Recognition, Electronics and Telecommunication
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### CNN Architecture and Transfer Learning
+## Computer Vision
+
+This project involves 5 sub projects including a CV powered GUI to solve the problem of a botanical research group. Part 1 Image classifier capable of determining a plant's species. Part 2 Detailed analysis on how CNN is a better image classifier over traditional methods Part 3 Curating an image dataset for a brand research company Part 4 Image classifier capable of determining a flower’s species Part 5 Submit your strategy to maintain and support the AIML the model in production
+
+Skills and Tools
+#### CNN, Transfer learning, Tensorflow, Computer Vision
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Advanced Computer Vision - Object Detection and recognition
+## Computer Vision
+
+The project involves 4 sub segments. Part 1 Implement an object detection model for highlighting human faces to automate the process of providing information of cast and crew while streaming. Part 2 Curate a training dataset to be used for highlighting human faces. Part 3 Implement a face identification model for a company, which intends to recognize human faces form images. Part 4 Building an automation to impute dynamic bounding boxes to locate cars/vehicles on a video file.
+
+Skills and Tools
+##### CNN, NN, GUI, Computer Vision, Tensor Flow, Siamese Netoworks, Triplet loss, Object Detection
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Statistical Natural Language Processing
+## Natural Language Processing
+
+his project delivers 2 sub-projects based on natural language processing and supervised learning classifier techniques. Part 1 Implementing an NLP-based text classifier for a digital marketing company that can use input text parameters to determine the category based on the blog’s literature from the corpus of numerous blogs curated and maintained. Part 2 Employing NLP text classifiers to curate and build a semi-rule based chatbot automation to be used as a technical support entity
+
+Skills and Tools
+##### RNN, Text preprocessing, LSTM, Classification, Word embedding, TensorFlow
